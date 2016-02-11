@@ -1,6 +1,6 @@
 # DataScience-at-Scale-Visualization
 
-<\b>DataScience-at-Scale 
+DataScience-at-Scale 
 <br>Steps followed in Tableau for Data visualization<br>
 1)Drag what ever the rows we need to represent in graph to the Row field.<br>
 2)Drag the fields to the Column field.<br>
