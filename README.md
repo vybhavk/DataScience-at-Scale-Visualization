@@ -1,0 +1,14 @@
+# DataScience-at-Scale-Visualization
+
+<\b>DataScience-at-Scale 
+<br>Steps followed in Tableau for Data visualization<br>
+1)Drag what ever the rows we need to represent in graph to the Row field.<br>
+2)Drag the fields to the Column field.<br>
+3) we can create filter by using some columns.<br>
+
+Ex: 1) Drag "Number of Records" from measures to rows.
+2) Drag "Hour(time)" from dimensions to columns. By default, this will be aggregated to Hour.
+3) we can create filter by using some columns like catagory or district column. 
+sample
+
+Optional: Right click anywhere in the visualization and go to "Trend Lines" and click "Show Trend Lines."To view the statistical model, right click again, go to "Trend Lines" and click "Describe Trend Model."
